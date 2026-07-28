@@ -1,2 +1,0 @@
-this file contains the data related to the git operations.
-I'm adding second line to this file, just to track the commit changes in my repository.
